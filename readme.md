@@ -1,3 +1,3 @@
-#Game Hero x Enemy
+# Game Hero x Enemy
 
 logic:
